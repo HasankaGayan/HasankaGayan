@@ -1,24 +1,112 @@
-<h1 align="center">Hi 👋, I'm Hasanka Gayan Somaweera</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+# Hi there! 👋 I'm Hasanka Gayan Somaweera
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasankagayan&label=Profile%20views&color=0e75b6&style=flat" alt="hasankagayan" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Electrical+%26+Electronic+Engineer;Robotics+%26+IoT+Enthusiast;Software+Developer;ML+%26+Research+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/hasanka_gayan" target="blank"><img src="https://img.shields.io/twitter/follow/hasanka_gayan?logo=twitter&style=for-the-badge" alt="hasanka_gayan" /></a> </p>
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Flutter**
+I am a final year undergraduate in **Electrical and Electronic Engineering**, specializing in **Telecommunication and Biomedical** fields. I am passionate about Electrical Engineering, Research and Development, Robotics, Software Development, Machine Learning, and IoT development. My academic journey has equipped me with a solid foundation in electrical and electronic principles, optimization techniques, and Engineering Mathematics.
 
-- 📫 How to reach me **hasankagayansomaweera@gmail.com**
+I am driven by curiosity and enjoy exploring how emerging technologies can be applied to solve real-world problems creatively and efficiently. My goal is to contribute to innovative projects that make a meaningful impact on society and advance technological boundaries.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hasanka_gayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanka_gayan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasanka-gayan-somaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanka-gayan-somaweera" height="30" width="40" /></a>
-<a href="https://fb.com/hasanka.gayan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasanka.gayan.5" height="30" width="40" /></a>
-</p>
+## 📫 Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasankagayansomaweera@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasanka-gayan-somaweera/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/hasanka.gayan.5)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasankagayan&show_icons=true&locale=en&layout=compact" alt="hasankagayan" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasankagayan&show_icons=true&locale=en" alt="hasankagayan" /></p>
+## 🎓 Education
+
+### 🏛️ **University of Sri Jayewardenepura, Sri Lanka**
+**B.Sc. Engineering (Hons), Electrical & Electronic Engineering**
+- 📅 **Duration:** 2021 - Present
+
+
+### 🏫 **Bandaranayake College Gampaha**
+**G.C.E A/L 2019 (Physical Science Stream)**
+- 📊 **Results:** 2As & 1B
+- 📈 **Z-score:** 2.0027
+
+**G.C.E O/L 2016**
+- 🏅 **Achievement:** 8As & 1B
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+<div align="center">
+  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🗄️ Database
+<div align="center">
+  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+### 🔧 Software & Tools
+<div align="center">
+  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+</div>
+
+## 🔥 Areas of Interest
+
+- 🔌 **Electrical Engineering**
+- 🔬 **Research and Development**
+- 🤖 **Robotics**
+- 💻 **Software Development**
+- 🧠 **Machine Learning**
+- 🌐 **IoT Development**
+- 📡 **Telecommunication**
+- 🏥 **Biomedical Engineering**
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasankagayan&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasankagayan&theme=radical&hide_border=true)
+
+</div>
+
+## 🏆 Most Used Languages
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasankagayan&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+## 🎯 Goals
+
+- 🚀 Contribute to innovative projects that make a meaningful impact on society
+- 🌟 Advance technological boundaries through creative problem-solving
+- 🔬 Bridge the gap between theoretical knowledge and practical applications
+- 🤝 Collaborate with like-minded professionals and researchers
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hasankagayan&color=brightgreen&style=flat-square)
+
+</div>
